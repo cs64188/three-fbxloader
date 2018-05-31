@@ -1,0 +1,26 @@
+{
+  "name": "three-fbxloader",
+  "version": "1.0.0",
+  "homepage": "https://github.com/cs64188/three-fbxloader",
+  "description": "Threejs fbxload with offical apply 'inflate.min.js' its fluent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "three": ">= 0.91"
+  },
+  "keywords": [
+    "fbxloader",
+    "fbx",
+    "three-fbxloader",
+    "threejs",
+    "three.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs64188/three-fbxloader.git"
+  },
+  "author": "tomyl",
+  "license": "MIT"
+}
