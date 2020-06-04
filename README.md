@@ -22,3 +22,5 @@ loader.load(url, function (object) {
 })
 
 ```
+
+Sorry guys! This repo will never be updated, please check the newest version of [three.js](https://github.com/mrdoob/three.js) 
